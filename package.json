@@ -1,0 +1,43 @@
+{
+  "name": "balm-weui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "balm",
+    "prod": "balm -p",
+    "docs": "balm -p --docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balmjs/balm-weui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balmjs/balm-weui/issues"
+  },
+  "devDependencies": {
+    "@babel/runtime-corejs3": "^7.14.0",
+    "axios": "^0.21.1",
+    "babel-plugin-prismjs": "^2.1.0",
+    "balm": "3.19.1",
+    "balm-ui": "^8.43.1",
+    "core-js": "^3.15.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "6",
+    "html-loader": "1",
+    "markdown-loader": "^6.0.0",
+    "prettier": "^2.3.2",
+    "prismjs": "^1.24.0",
+    "vue": "2",
+    "vue-loader": "15",
+    "vue-router": "3",
+    "vue-template-compiler": "2",
+    "webpack": "4",
+    "weui": "^2.4.4"
+  }
+}
